@@ -20,10 +20,17 @@
 ### 實體背面
 ![實體照片](image/實體背面.jpg)
 ## 4.實作步驟
-### 步驟一(自走車組裝)
+### 步驟一 (自走車組裝)
 可參考[四軸自走車底盤組裝](https://www.youtube.com/watch?v=qmBYOK8da6Y&ab_channel=Yung-ChenChou)影片
-### 步驟二(測試硬體)
-
+### 步驟二 (測試硬體)
+- 將攝影鏡頭安裝在樹梅派上，可參考[Raspberry Pi 相機模組安裝](https://blog.wuct.me/raspberry-pi-100abbe7a1fd)，並運用[camera_test.py](code/camera_test.py)檔案測試鏡頭是否能正常拍攝
+- 運用[engine_test.py](code/engine_test.py)檔案測試L298N能否控制馬達 & 馬達能否正常轉動。若車子無法正常移動，可嘗試以下方法
+  -直接將電池組連接到各個馬達，測試馬達是否故障
+  -查看L298N的ENA與ENB腳位是否有jumper
+  -嘗試能否控制單邊的馬達轉動，測試L298N是否故障
+  -提供額外的電源，測試是否電壓不足，但需要注意[規格書](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.pu-yang.com.tw/media/products/0731191001406789695.pdf)
+### 步驟三 (執行程式)
+執行
 ## 5.模型訓練
 
 ## 6.Demo影片
