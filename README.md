@@ -26,6 +26,6 @@
 - 可用支架把鏡頭架高，比較容易識別目標
 - 添加
 ## 8.參考資料
-- 利用roboflow訓練模型(https://medium.com/@andy6804tw/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8Byolo-%E5%88%A9%E7%94%A8-roboflow-%E5%92%8C-ultralytics-hub-%E5%AE%8C%E6%88%90%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E8%88%87%E7%AE%A1%E7%90%86-%E4%B8%8A-37acd110a8a0))
-- 樹莓派腳位(https://pinout.xyz/)
-- L298n控制馬達(https://atceiling.blogspot.com/2021/04/raspberry-pi-pico10l298n.html#google_vignette)
+- [利用roboflow訓練模型](https://medium.com/@andy6804tw/%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8Byolo-%E5%88%A9%E7%94%A8-roboflow-%E5%92%8C-ultralytics-hub-%E5%AE%8C%E6%88%90%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E8%88%87%E7%AE%A1%E7%90%86-%E4%B8%8A-37acd110a8a0)
+- [樹莓派腳位](https://pinout.xyz/)
+- [L298n控制馬達](https://atceiling.blogspot.com/2021/04/raspberry-pi-pico10l298n.html#google_vignette)
