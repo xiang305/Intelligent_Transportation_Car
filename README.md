@@ -19,7 +19,10 @@
 ![實體照片](image/實體正面.jpg)
 ### 實體背面
 ![實體照片](image/實體背面.jpg)
-## 4.程式設計
+## 4.實作步驟
+### 步驟一(自走車組裝)
+可參考[四軸自走車底盤組裝](https://www.youtube.com/watch?v=qmBYOK8da6Y&ab_channel=Yung-ChenChou)影片
+### 步驟二(測試硬體)
 
 ## 5.模型訓練
 
