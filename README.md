@@ -47,7 +47,7 @@
 3. 建立訓練模型的yaml檔，並開始訓練。可參考[yolo 自己訓練模型](https://blog.davidou.org/archives/2376)
 ### Roboflow訓練
 Roboflow 是一個可以將訓練資料集輸出成不同機器學習模型格式與進行模型訓練的網站，同時它可以對資料集進行標記、切分訓練測試比例、調整影像大小以及資料擴增，可參考[客製化 YOLOv5 模型 (四)：標註資料、導出資料集](https://ithelp.ithome.com.tw/articles/10305264)，訓練成果如下：
-
+![模型訓練成果](image/訓練成果.jpg)
 可透過此介面得知檢測範圍、信心程度、準確率等資訊
 ## 6.Demo影片
 [物流運輸概念車 Demo展示](https://youtu.be/6LKaLzW9TY4)
